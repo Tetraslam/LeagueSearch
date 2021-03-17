@@ -1,10 +1,10 @@
 # Welcome to LeagueSearch!
 
-#### What is LeagueSearch?
+### What is LeagueSearch?
 
 LeagueSearch is a program that allows you to find League of Legends champions and their abilities, along with detailed information on their backstory and effects.
 
-##### Planned Features
+### Planned Features
 
 - List out all champions
 - Find a champion ability or passive with just a search
